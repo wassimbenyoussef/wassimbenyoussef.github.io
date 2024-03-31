@@ -1,47 +1,76 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Wassim Ben Youssef",
+    "label": "Data Scientist, ML and AI Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "wbenyoussefdspro@gmail.com",
+    "phone": "+971 585 950 189",
+    "url": "https://wassimbenyoussef.github.io/",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Dubai",
+      "countryCode": "UAE",
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "wassim-ben-youssef-54532910b",
+        "url": "https://www.linkedin.com/in/wassim-ben-youssef-54532910b/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Artefact MENA",
+      "position": "Senior Data Scientist Consultant",
+      "location": "Dubai, UAE",
+      "url": "https://www.artefact.com/",
+      "startDate": "2022-11-14",
+      "endDate": "2024-03-26",
+      "summary": "Artefact MENA is a data consultancy company aiding corporations in their digital transformation initiatives. I worked on developing and implementing the roadmap for data strategy for an asset management company. I Led data analysis and machine learning projects for clients in the construction, real estate, and hospitality sectors.",
+      "highlights": ["Managed a team of 3 data analysts and data scientists.", "Developed a clustering-based approach to estimate the cost of future construction projects.", "Built machine learning models to forecast the occupancy rate of golf courses.", "Built P&L reporting dashboards for Golf and Hospitality sectors."]
+    },
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Xelix",
+      "position": "Data Scientist/ML Engineer",
+      "location": "London, United Kingdom",
+      "url": "https://xelix.com/",
+      "startDate": "2020-01-14",
+      "endDate": "2022-11-01",
+      "summary": "Xelix is a SaaS company that helps identify errors and frauds in invoices using AI bolted onto the clients finance systems . I joined as the first Data Scientist and automated the invoice error and fraud detection process, saving millions of £ to our customers.",
+      "highlights": ["Developed ML models to identify errors and frauds in invoice fields.", "Trained model to identify invoices associated with incorrect vendors.", "Implement an AI system with a combination of rule-based algorithms and ML models to detect duplicated invoices.", "Implemented scalable production code to process millions of invoices", "Designed and implemented the monitoring and retraining lifecycle of models"]
+    },
+    {
+      "name": "Digital Fineprint",
+      "position": "Data Scientist/ML Engineer",
+      "location": "London, United Kingdom",
+      "url": "https://www.linkedin.com/company/digital-fineprint?originalSubdomain=uk",
+      "startDate": "2017-06-01",
+      "endDate": "2020-01-10",
+      "summary": "Digital Fineprint is an award-winning insurtech company that assists the insurance community in engaging and understanding SME clients. I joined the company as the first data scientist to build a SaaS product that uses all available open source data to provide insightful information about SMEs to our insurance clients.",
+      "highlights": ["Developed ML models to identify errors and frauds in invoice fields.", "Trained model to identify invoices associated with incorrect vendors.", "Implement an AI system with a combination of rule-based algorithms and ML models to detect duplicated invoices.", "Implemented scalable production code to process millions of invoices", "Designed and implemented the monitoring and retraining lifecycle of models"]
+    }
+
+  ],
+  "teaching": [
+    {
+      "organization": "CodeRed by EC-Council",
+      "position": "Online Course Author",
+      "url": "https://codered.eccouncil.org/course/fda150cd-cde5-490e-b92f-60efe659b3fa",
+      "startDate": "2021-01-01",
+      "endDate": "2021-05-01",
+      "summary": "Authoring an online course of 4 hours about Advanced Machine Learning for Business Professionals. Creating
+all the content and the slides and recording the videos.",
+      "highlights": ["Average of 5-star on 81 reviews"]
+    },
+    {
+      "organization": "Le Wagon",
+      "position": "Data Science Teacher",
+      "url": "https://www.lewagon.com/data-science-course",
+      "startDate": "2020-08-01",
+      "endDate": "2022-10-01",
+      "summary": "Worked as a teacher for a data science bootcamp provided by Le Wagon. Coached and helped students to learn all the technical skills for a successfull data science career.",
+      "highlights": ["Python coding", "Machine Learning", "Data Analysis", "Data Engineering"]
     }
   ],
   "education": [
